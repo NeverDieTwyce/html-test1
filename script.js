@@ -54,17 +54,16 @@
 })();
 */
 const messages = [
-"Tu es sûr ?",
-"Vraiment sûr ??",
-"Tu es certain ?",
-"Pookie s'il te plaît...",
-"Juste, réfléchis-y !",
-"Si tu dis non, je serai vraiment triste...",
-"Je serai très triste...",
-"Je serai très très très triste...",
-"Ok d'accord, j'arrête de demander...",
-"Je rigole, dis oui s'il te plaît ! ❤️"
-
+    "Tu es sûr ?",
+    "Vraiment sûr ??",
+    "Tu es certain ?",
+    "Pookie s'il te plaît...",
+    "Juste, réfléchis-y !",
+    "Si tu dis non, je serai vraiment triste...",
+    "Je serai très triste...",
+    "Je serai très très très triste...",
+    "Ok d'accord, j'arrête de demander...",
+    "Je rigole, dis oui s'il te plaît ! ❤️"
 ];
 
 let messageIndex = 0;
